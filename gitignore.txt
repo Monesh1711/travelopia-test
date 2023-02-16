@@ -1,0 +1,2 @@
+travelopia-backend/node_modules
+travelopia-frontend/node_modules
